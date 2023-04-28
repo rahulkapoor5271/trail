@@ -1,0 +1,6 @@
+Enter new file name:-      r.txt
+Enter student name:-   sccwc
+Enter student rollno:-    cswcwc
+Enter student course:-    cccwcd
+Enter student fee:-    wcwcwc
+Enter course duration:-    wcwc

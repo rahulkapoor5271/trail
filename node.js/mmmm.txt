@@ -1,0 +1,6 @@
+Enter new file name:-      mmmm.txt
+Enter student name:-   rahul
+Enter student rollno:-    123
+Enter student course:-    bockchain
+Enter student fee:-    1lakh
+Enter course duration:-    1year
